@@ -59,7 +59,7 @@ namespace UltimateCarry
 
             Menu.AddToMainMenu();
             Chat.Print("You have the latest version.");
-            Chat.Print("Ultimate Carry loaded! (If something is not working please report it)");
+            Chat.Print("Ultimate Carry loaded!For Damien :) (If something is not working please report it)");
         }
     }
 }
